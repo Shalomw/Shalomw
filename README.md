@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shalomw
 - 🌱 I’m currently learning Python and Web develoment
-- 📫 How to reach me : 2678028557@qq.com
+- 📫 How to reach me : shalomx373@foxmail.com  shalomx373@gmail.com
 
 <!---
 Shalomw/Shalomw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
