@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shalomw
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently learning Python and Web develoment
 - 📫 How to reach me : 2678028557@qq.com
 
 <!---
