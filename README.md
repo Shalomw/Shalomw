@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shalomw
+- 👋 Hi, I’m @Shalomx
 - 🌱 I’m currently learning Python and Web develoment
 - 📫 How to reach me : shalomx373@foxmail.com  shalomx373@gmail.com
 
